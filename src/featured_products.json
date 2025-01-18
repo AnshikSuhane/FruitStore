@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Fresh Strawberries",
+    "price": 4.99,
+    "image": "https://images.unsplash.com/photo-1464965911861-746a04b4bca6?auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Organic Bananas",
+    "price": 2.99,
+    "image": "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Juicy Oranges",
+    "price": 3.99,
+    "image": "https://images.unsplash.com/photo-1547514701-42782101795e?auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Fresh Apples",
+    "price": 1.99,
+    "image": "https://images.unsplash.com/photo-1619546813926-a78fa6372cd2?auto=format&fit=crop&q=80"
+  }
+]
